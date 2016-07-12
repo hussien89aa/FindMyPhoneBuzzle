@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="phonelocation.example.asuss550c.phonelocation.MapDisplay">
+
+    <item android:id="@+id/StreetView" android:title="Street View"
+   android:icon="@drawable/dmap"
+     app:showAsAction="always|withText" />
+
+    <item android:id="@+id/Findroute" android:title="Find route"
+        android:icon="@drawable/route"
+         app:showAsAction="always|withText" />
+    <item android:id="@+id/goback" android:title="back"
+        android:icon="@drawable/left"
+        app:showAsAction="always|withText" />
+</menu>

@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "553431617862",
+    "firebase_url": "https://foodapp-9ca23.firebaseio.com",
+    "project_id": "foodapp-9ca23",
+    "storage_bucket": "foodapp-9ca23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553431617862:android:08c8407aa5eb518b",
+        "android_client_info": {
+          "package_name": "com.ruabye.hussienalrubaye.foods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553431617862-e7ajod9h5fgt5rcgjne8j2kmndpulmup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruabye.hussienalrubaye.foods",
+            "certificate_hash": "76A07B52241638F10FB6D3CF8F6B855F929169DC"
+          }
+        },
+        {
+          "client_id": "553431617862-nl06uhbg3gabp8t1b3905curi3ka50ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4YRJGmkKysnzkpuUFt-Uoq4cU9XxCCKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553431617862-nl06uhbg3gabp8t1b3905curi3ka50ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553431617862:android:764132cd4d25a8b1",
+        "android_client_info": {
+          "package_name": "com.example.hussienalrubaye.quranonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553431617862-qa76m95c9tb578t6vb3e6r2v7qkae8t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hussienalrubaye.quranonline",
+            "certificate_hash": "76A07B52241638F10FB6D3CF8F6B855F929169DC"
+          }
+        },
+        {
+          "client_id": "553431617862-nl06uhbg3gabp8t1b3905curi3ka50ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4YRJGmkKysnzkpuUFt-Uoq4cU9XxCCKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553431617862-nl06uhbg3gabp8t1b3905curi3ka50ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553431617862:android:64cd549bdecf7bd1",
+        "android_client_info": {
+          "package_name": "com.onlines.quranonlinesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553431617862-9svfqj6692sosdgj44kh8vs3ood66tnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlines.quranonlinesapp",
+            "certificate_hash": "76A07B52241638F10FB6D3CF8F6B855F929169DC"
+          }
+        },
+        {
+          "client_id": "553431617862-nl06uhbg3gabp8t1b3905curi3ka50ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4YRJGmkKysnzkpuUFt-Uoq4cU9XxCCKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553431617862-nl06uhbg3gabp8t1b3905curi3ka50ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553431617862:android:452ab8a1bfecc792",
+        "android_client_info": {
+          "package_name": "phonelocation.example.asuss550c.phonelocationphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553431617862-s69q5s8f9fldl4lg3ke6j1jpk2skf3k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "phonelocation.example.asuss550c.phonelocationphone",
+            "certificate_hash": "76A07B52241638F10FB6D3CF8F6B855F929169DC"
+          }
+        },
+        {
+          "client_id": "553431617862-nl06uhbg3gabp8t1b3905curi3ka50ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4YRJGmkKysnzkpuUFt-Uoq4cU9XxCCKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553431617862-nl06uhbg3gabp8t1b3905curi3ka50ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

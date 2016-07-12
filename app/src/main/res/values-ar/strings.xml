@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">العثور على هاتفي</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="title_activity_map">آخر خريطة</string>
+    <string name="title_activity_map_display">رسم خريطة</string>
+    <string name="title_activity_street_view">عرض الشارع</string>
+    <string name="title_activity_find_myphone">اختر الهاتف</string>
+    <string name="title_activity_registeration">انقر لدعوة</string>
+    <string name="title_activity_contact_list">قائمة الإتصال</string>
+    <string name="title_activity_login">تسجيل الدخول</string>
+    <string name="title_activity_phone_verify">الملاحظات</string>
+    <string name="new_message_notification_title_template"> %1$ موقع الهاتف</string>
+    <string name="title_activity_my_street"> مشارك التطبيق</string>
+    <string name="sharemessage">  تطبيق رائع لايجاد موقع الهاتف دون انترنت اود مشاركته معك </string>
+    <string name="GpsDistable">تحتاج إلى إعطاء إذن
+     لهذا التطبيق للعثور على مواقع الهاتف الخاص بك عندما كنت أفتقد ذلك، حدد تذكر دائما </string>
+    <string name="RequestPermision">هذا التطبيق يحتاج إلى الوصول إلى الموقع الخاص بك إذا كنت ترغب في العثور على هاتفك</string>
+
+    <string name="AppWork">
+    كيف يعمل هذا التطبيق؟
+    </string>
+    <string name="AppDescription">
+هذا التطبيق يمكنك من ايجاد موقع هاتفك بواسطة جهاز احد اصدقائك او احد افراد عائلتك الذين تثق بهم سوف يجدون هاتفك بدون انترنت
+    </string>
+    <string name="WatchVideo">
+      مشاهدة فيديو تجريبي
+    </string>
+    <string name="Iundertand">
+       شكرا، أنا أفهم؟
+    </string>
+    <string name="Yes">
+      نعم فعلا
+    </string>
+    <string name="No">
+        لا
+    </string>
+    <string name="DenailMessage">
+        العثور على الموقع مرفوض لا يمكننا معالجة حسابك
+    </string>
+    <string name="WatingStart">
+     يرجى الانتظار حتى
+    </string>
+    <string name="WatingEnd">
+هاتفه يقوم بارسال موقعه لك. سوف تستلم الرسال في ثوان اذا كان قد وضعك في قائمة الاشخاص الذين يستطيعون ايجاده
+    </string>
+    <string name="WatingError">
+قم بضبط الارقام الذين تثق بهم من صفحة الضبط
+    </string>
+    <string name="ShareUse">
+     المشاركة باستخدام
+    </string>
+     <string name="HelpMSG">
+     الرجاء مساعدتي. أنا هنا
+    </string>
+    <string name="MsgSent">
+    الرسائل المرسلة
+    </string>
+      <string name="MsgFail">
+   لا يمكن إرسال رسالة
+    </string>
+     <string name="FindTitle">
+ايجاد موقع الهاتف
+    </string>
+     <string name="FindDesc">
+ايجاد موقع الاشخاص الذين اتابعهم
+    </string>
+     <string name="HelpTitle">
+  ساعدني
+    </string>
+     <string name="HelpDesc">
+طلب مساعدة من الاصدقاء الذين تثق بهم. سوف يقوم التطبيق بارسالة رسالة مساعدة لهم تحتوي موقعك الحالي
+    </string>
+     <string name="ShareTitle">
+    شارك التطبيق
+    </string>
+     <string name="ShareDesc">
+شارك التطبيق مع اصدقائك
+    </string>
+     <string name="RateTitle">
+تقييم
+    </string>
+     <string name="RateDesc">
+تقييم التطبيق
+    </string>
+     <string name="SettingTitle">
+ضبط
+    </string>
+     <string name="SettingDesc">
+تحديد الاشخاص الذين يستطيعون تحديد موقعك والذين تستطيع تحديد موقعهم
+    </string>
+     <string name="ListFindMe">
+الاشخاص الذين يستطيعون ايجاد موقعي
+    </string>
+     <string name="SelectList">
+   حدد قائمة من اتصال
+    </string>
+     <string name="ListIFind">
+الاشخاص الذين استطيع ايجادهم
+    </string>
+     <string name="FindByPassword">
+ايجاد هاتفي بواسطة كلمة مرور
+    </string>
+    <string name="AddPassword">
+    إضافة كلمة المرور الخاصة بك (اختياري)
+    </string>
+    <string name="AddPassDec">
+يمكنك وضع رمز خاص بك تجد عن طريقه هاتفك من اي جهاز اخر بواسطة ارسال هذا الرمز لهاتفك من اي هاتف برسالة نصية
+   </string>
+    <string name="Done">
+انهاء
+    </string>
+    <string name="ReciveLocation">
+تم استلام موقع الهاتف الثاني افتح الاشعارات الخاصة بالتطبيق
+    </string>
+    <string name="UpdateMsg">
+    يتم تحديث إعداد هاتفك
+    </string>
+    <string name="banner_ad_unit_id">Banner_Ads_CODE</string>
+    <string name="Pop_ad_unit_id">Interstitial_Ads_CODE</string>
+        <string name="settingPage">
+تحتاج الى اضافة الاشخاص الذين تتابعهم هل تريد الاضافة الان
+        </string>
+    <string name="search_title">بحث</string>
+    <string name="add">أضف المزيد</string>
+    <string name="smsSend">هل تريد أن تقول له عن طريق الرسائل القصيرة حول هذا الإعداد.</string>
+
+</resources>

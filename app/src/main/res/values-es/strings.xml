@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">
+        Encuentra mi Teléfono
+    </string>
+
+    <string name="action_settings">
+        Configuraciones
+    </string>
+     <string name="title_activity_map">
+    Vista del Mapa
+     </string>
+
+    <string name="title_activity_map_display">
+        Mapa
+    </string>
+    <string name="title_activity_street_view">
+        Vista de la Calle
+    </string>
+    <string name="title_activity_find_myphone">
+        Selecciona el Teléfono
+    </string>
+
+    <string name="title_activity_registeration">
+        Click para Invitar
+    </string>
+
+    <string name="title_activity_contact_list">
+        Lista de Contactos
+    </string>
+    <string name="title_activity_login">
+        Iniciar Sesión
+    </string>
+    <string name="title_activity_phone_verify">
+        Notas
+    </string>
+    <string name="new_message_notification_title_template">
+        %1$s, Ubicación del Teléfono
+    </string>
+
+    <string name="title_activity_my_street">
+        Mi Calle
+    </string>
+    <string name="sharemessage">
+        Me gustaría compartir una maravillosa aplicación que ayudaría a localizar tu teléfono
+    </string>
+    <string name="GpsDistable">
+        Necesita otorgarle un número de permisos a esta aplicación para localizar su teléfono cuando lo pierda, por favor seleccione recordar siempre
+    </string>
+    <string name="RequestPermision">
+        Esta aplicación necesita acceder a su ubicación para permitirle localizar su teléfono
+    </string>
+
+    <string name="AppWork">
+     ¿Cómo funciona esta aplicación?
+    </string>
+    <string name="AppDescription">
+     Esta aplicación te permite localizar tu teléfono usando los teléfonos de tus amigos o familiares. Debes seleccionar una lista de personas a las cuales les permitirías localizar tu teléfono y una lista lista de personas a las que encontrarás. También puedes  encontrar tu teléfono desde cualquier dispositivo que no tenga esta aplicación por medio de un SMS, requiriendo tu contraseña, que será enviado a tu teléfono
+    </string>
+    <string name="WatchVideo">
+        Ver el Video de Demostración
+    </string>
+    <string name="Iundertand">
+        Gracias, He entendido
+    </string>
+    <string name="Yes">
+        Sí
+    </string>
+    <string name="No">
+        No
+    </string>
+    <string name="DenailMessage">
+         Encontrar la ubicación fue denegada, no podemos encontrar su teléfono
+    </string>
+    <string name="WatingStart">
+       Por favor espere hasta que
+    </string>
+    <string name="WatingEnd">
+        el teléfono envíe su ubicación, si lo seleccionó and su lista de quienes pueden localizarme, recibirá la ubicación and 10 segundos
+    </string>
+    <string name="WatingError">
+      Por favor ajuste el número de confianza desde configuraciones
+    </string>
+    <string name="ShareUse">
+        Compartir usando
+    </string>
+     <string name="HelpMSG">
+      Por favor ayúdeme. Aquí estoy
+    </string>
+    <string name="MsgSent">
+       Mensaje enviado
+    </string>
+      <string name="MsgFail">
+      No se puede enviar el mensaje
+    </string>
+     <string name="FindTitle">
+     Encontrar Mi Teléfono
+    </string>
+     <string name="FindDesc">
+     Ver la ubicación actual para obtener la lista de teléfonos que puede rastrear
+    </string>
+     <string name="HelpTitle">
+      Ayúdeme
+    </string>
+     <string name="HelpDesc">
+    Pide ayuda a tus amigos en quien confías. El sistema les enviará tu ubicación actual con un mensaje de emergencia
+    </string>
+     <string name="ShareTitle">
+      Compartir la Aplicación
+    </string>
+     <string name="ShareDesc">
+     Compartir la Aplicación con tus Amigos
+    </string>
+     <string name="RateTitle">
+      Puntaje
+    </string>
+     <string name="RateDesc">
+     Califica la Aplicación
+    </string>
+     <string name="SettingTitle">
+      Configuraciones
+    </string>
+     <string name="SettingDesc">
+     Administra las personas que pueden localizarte y a las que puedes localizar
+    </string>
+     <string name="ListFindMe">
+      Lista de personas que pueden localizarme
+    </string>
+     <string name="SelectList">
+     Selecciona Lista desde Contacto
+    </string>
+     <string name="ListIFind">
+    Lista de personas a las que puedo localizar
+    </string>
+     <string name="FindByPassword">
+     Localizar mi teléfono utilizando mi contraseña
+    </string>
+    <string name="AddPassword">
+        Agregar Contraseña (Opcional)
+    </string>
+    <string name="AddPassDec">
+        al utilizar esta contraseña puedes localizar tu teléfono enviando un SMS conteniendo este código desde cualquier dispositivo
+    </string>
+    <string name="Done">
+        ¡Listo!
+    </string>
+    <string name="ReciveLocation">
+         Otro teléfono envió su ubicación, revise las notificaciones y vea su ubicación
+    </string>
+    <string name="UpdateMsg">
+        La configuración de su teléfono has sido actualizada
+    </string>
+    <string name="banner_ad_unit_id">Banner_Ads_CODE</string>
+    <string name="Pop_ad_unit_id">Interstitial_Ads_CODE</string>
+        <string name="settingPage">
+            Es necesario agregar lista de personas que usted encontraría. ¿Quieres añadir nueva.
+    </string>
+    <string name="search_title">buscar</string>
+    <string name="add">añadir más</string>
+    <string name="smsSend">¿Quieres decirle por sms acerca de esta configuración.</string>
+
+</resources>

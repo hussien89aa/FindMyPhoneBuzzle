@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Find my phone</string>
+
+    <string name="action_settings">Settings</string>
+     <string name="title_activity_map">Map View</string>
+
+    <string name="title_activity_map_display">Map</string>
+    <string name="title_activity_street_view">Street View</string>
+    <string name="title_activity_find_myphone">Select the phone</string>
+
+    <string name="title_activity_registeration">Click to Invite</string>
+    <string name="title_activity_contact_list">Contact List</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_phone_verify">Notes</string>
+    <string name="new_message_notification_title_template"> %1$s, Phone location</string>
+
+    <string name="title_activity_my_street">
+        My Street </string>
+    <string name="sharemessage">
+        I would like to share Awesome app that helps to find your phone location
+    </string>
+    <string name="GpsDistable">
+        You need to give number of permissions
+    to this app to find your  phone locations when you miss it,
+        please select remember always
+    </string>
+    <string name="RequestPermision">
+        This app need to access to your location and SMS to enable you to find your phone without internet
+    </string>
+
+    <string name="AppWork">
+     How This App Work?
+    </string>
+    <string name="AppDescription">
+     This app allows you to find your phone using your friends or family phones,
+        so you have to select list of peoples who you want to allow them to find your phone,
+        and list of peoples who you will find them, Also you could find you phone from any device
+        that do not have this app by sending SMS contains your personal password to your phone.
+    </string>
+    <string name="WatchVideo">
+        Watch Demo Video
+    </string>
+    <string name="Iundertand">
+        Thanks, I understand?
+    </string>
+    <string name="Yes">
+        Yes
+    </string>
+    <string name="No">
+        No
+    </string>
+    <string name="DenailMessage">
+         Find location  is Denied, we cannot find your phone
+    </string>
+    <string name="WatingStart">
+       Please wait until
+    </string>
+    <string name="WatingEnd">
+        s phone send its location,If he select you in his list of
+        who could find me, you will get his location in 10 sec
+    </string>
+    <string name="WatingError">
+      Please setup the trust number from setting
+    </string>
+    <string name="ShareUse">
+        Share using
+    </string>
+     <string name="HelpMSG">
+      Please help me. I am here
+    </string>
+    <string name="MsgSent">
+       message Sent
+    </string>
+      <string name="MsgFail">
+      Cannot send message
+    </string>
+     <string name="FindTitle">
+     Find My Phone
+    </string>
+     <string name="FindDesc">
+     See current location for list of  phones that you track
+    </string>
+     <string name="HelpTitle">
+      Help Me
+    </string>
+     <string name="HelpDesc">
+    Ask for help from your friends who you trust. The system will send them your current
+         location with emergency message.
+    </string>
+     <string name="ShareTitle">
+      Share App
+    </string>
+     <string name="ShareDesc">
+     Share App with your Fiends
+    </string>
+     <string name="RateTitle">
+      Rating
+    </string>
+     <string name="RateDesc">
+     Rate this App
+    </string>
+     <string name="SettingTitle">
+      Settings
+    </string>
+     <string name="SettingDesc">
+     Manage the people who could find you, and who you could find
+    </string>
+     <string name="ListFindMe">
+      List of people Who Could Find Me ?
+    </string>
+     <string name="SelectList">
+     Select List from contact
+    </string>
+     <string name="ListIFind">
+    List of people Who Could I Find ?
+    </string>
+     <string  name="FindByPassword">
+     Find my phone using Password
+    </string>
+    <string name="AddPassword">
+        Add Your Password(Optional)
+    </string>
+    <string name="AddPassDec">
+        by using this Password you could find your phone by send sms contain this code
+        from any device
+    </string>
+    <string name="Done">
+        !Done
+    </string>
+    <string name="ReciveLocation">
+         Other Phone send his location, now open your notification and see his location
+    </string>
+    <string name="UpdateMsg">
+        Your phone setting is updated
+    </string>
+    <string name="banner_ad_unit_id">Banner_Ads_CODE</string>
+    <string name="Pop_ad_unit_id">Interstitial_Ads_CODE</string>
+    <string name="settingPage">You need to add
+    list of people who you could find to  track them.\n Do you want to add now.
+    </string>
+    <string name="search_title">Search</string>
+    <string name="add">Add more</string>
+    <string name="smsSend">Do you want to tell him by SMS that you added his phone number in your app  </string>
+
+</resources>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="phonelocation.example.asuss550c.phonelocation.ContactList">
+     <item android:id="@+id/search"
+         android:title="@string/search_title"
+         app:showAsAction="always"
+         app:actionViewClass="android.widget.SearchView" />
+     <item android:id="@+id/goback" android:title="back"
+        android:icon="@drawable/left"
+        app:showAsAction="always|withText" />
+</menu>

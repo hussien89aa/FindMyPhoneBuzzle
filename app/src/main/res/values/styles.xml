@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/darkblue</item>
+    </style>
+
+
+
+    <style name="ProgressBar" parent="@android:style/Theme.Dialog">
+        <item name="android:alertDialogStyle">@style/CustomAlertDialogStyle</item>
+        <item name="android:textColorPrimary">@color/whiteback</item>
+
+    </style>
+
+    <style name="CustomAlertDialogStyle">
+        <item name="android:bottomBright">@color/whiteback</item>
+        <item name="android:bottomDark">@color/whiteback</item>
+        <item name="android:bottomMedium">@color/whiteback</item>
+        <item name="android:centerBright">@color/whiteback</item>
+        <item name="android:centerDark">@color/whiteback</item>
+        <item name="android:centerMedium">@color/whiteback</item>
+        <item name="android:fullBright">@color/whiteback</item>
+        <item name="android:fullDark">@color/whiteback</item>
+        <item name="android:topBright">@color/whiteback</item>
+        <item name="android:topDark">@color/whiteback</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
